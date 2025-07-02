@@ -1,0 +1,5 @@
+venv/
+mlruns/
+MLOPS_PROJECT_1.egg-info/
+logs/
+Hotel_Reservation_Project/
